@@ -6,8 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/1 Start Scene.unity
+    guid: 9f6227f5fbad0474fbf497b1788254fd
+  - enabled: 1
+    path: Assets/Scenes/2 Boat Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e3fa950a614c4954b8e7b33d71b0e991, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 988ae33d3df875b4bb816083b9fd9e71, type: 2}
   m_UseUCBPForAssetBundles: 0
